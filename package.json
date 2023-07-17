@@ -1,15 +1,15 @@
 {
-  "name": "huckleberry",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Joshua Comeau",
-  "scripts": {
-    "start": "live-server --port=9000 --host 0.0.0.0 ./index.html"
-  },
-  "dependencies": {
-    "live-server": "1.2.1"
-  },
-  "engines": {
-    "npm": ">5"
-  }
+	"name": "huckleberry",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Joshua Comeau",
+	"scripts": {
+		"start": "live-server --port=9000 --host=0.0.0.0 ."
+	},
+	"dependencies": {
+		"live-server": "1.2.1"
+	},
+	"engines": {
+		"npm": ">5"
+	}
 }
